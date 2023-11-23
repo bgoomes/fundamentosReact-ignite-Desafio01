@@ -1,0 +1,11 @@
+.content{
+    background: var(--gray-700);
+    
+    padding: 5rem 0.625rem;
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
